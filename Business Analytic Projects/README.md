@@ -1,3 +1,5 @@
+# Business Analytics 
+
 [Case_study(2).xlsx](https://github.com/Tashipalden/Projects/files/11535739/Project_2_Case_study_3.2.xlsx)
 [Case_study(1).xlsx](https://github.com/Tashipalden/Projects/files/11535744/Project_2_Case_study_4.1.xlsx)
 ### Findings 
